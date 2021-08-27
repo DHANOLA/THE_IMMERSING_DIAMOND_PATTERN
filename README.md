@@ -1,4 +1,4 @@
-#                                                                  THE-IMMERSING_DIAMOND-_PATTERN
+#                                                                  THE IMMERSING DIAMOND PATTERN
 
 
 ###### =>THIS IS A VERY SIMPLE PROGRAM WHICH HELPS IN MAKING A PATTERN WHICH LOOKS LIKE IMMERSSED IN THE GIVEN 
